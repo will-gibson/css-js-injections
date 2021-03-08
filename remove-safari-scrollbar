@@ -1,0 +1,5 @@
+<style>
+
+.your-scrollable-class::-webkit-scrollbar {display: none;}
+
+</style>
