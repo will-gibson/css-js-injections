@@ -1,3 +1,9 @@
+Creates a responsive image mosaic.
+
+Use display: grid to create an appropriate responsive grid layout.
+Use grid-row: span 2 / auto and grid-column: span 2 / auto to create items that span two rows or two columns respectively.
+Wrap the previous styles into a media query to avoid applying on small screen sizes.
+
 ```html
 <div class="image-mosaic">
   <div
