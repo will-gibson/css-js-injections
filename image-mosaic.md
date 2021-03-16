@@ -1,8 +1,3 @@
----
-title: Responsive image mosaic
-tags: layout,intermediate
----
-
 Creates a responsive image mosaic.
 
 - Use `display: grid` to create an appropriate responsive grid layout.
