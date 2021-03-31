@@ -15,6 +15,6 @@ Truncates text that is longer than one line, adding an ellipsis at the end (`…
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  width: 200px;
+  width: 215px;
 }
 ```
