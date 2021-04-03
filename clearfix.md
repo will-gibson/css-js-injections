@@ -25,5 +25,3 @@ Ensures that an element self-clears its children.
   padding: 4px;
 }
 ```
-
-Available under MIT License for public use.
